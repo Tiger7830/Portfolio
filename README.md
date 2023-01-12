@@ -1,2 +1,0 @@
-# Portfolio
-Self Resume
